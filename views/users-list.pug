@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    h1.display-4.m-b-2 Users List
+    ul.list-group
+        each user, index in users
+            li.list-group-item
+                h2.h2.m-b-2='User '+index
+                p= user
