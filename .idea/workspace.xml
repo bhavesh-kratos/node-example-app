@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e6e1b8-9976-4881-892c-be8e460d5bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configs/env/test.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/env/local.js" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/env/production.js" beforeDir="false" afterPath="$PROJECT_DIR$/configs/env/dev.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/env/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/configs/env/production.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/configs/messages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/crypt.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/crypt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/users-list.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/users-list.pug" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,7 +32,7 @@
           <entry key="dockerignore" value="1" />
           <entry key="env" value="4" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="65" />
+          <entry key="js" value="66" />
           <entry key="json" value="9" />
           <entry key="md" value="8" />
           <entry key="pug" value="19" />
@@ -59,7 +47,7 @@
           <entry key="Dockerfile" value="1" />
           <entry key="JSON" value="9" />
           <entry key="Jade" value="19" />
-          <entry key="JavaScript" value="72" />
+          <entry key="JavaScript" value="73" />
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="TypeScript" value="1" />
@@ -75,7 +63,7 @@
           <entry key="gitignore" value="10" />
           <entry key="js" value="905" />
           <entry key="json" value="70" />
-          <entry key="md" value="555" />
+          <entry key="md" value="615" />
           <entry key="pug" value="376" />
           <entry key="www" value="16" />
           <entry key="yml" value="72" />
@@ -87,7 +75,7 @@
           <entry key="JSON" value="70" />
           <entry key="Jade" value="376" />
           <entry key="JavaScript" value="921" />
-          <entry key="Markdown" value="555" />
+          <entry key="Markdown" value="615" />
           <entry key="PLAIN_TEXT" value="111" />
           <entry key="YAML" value="72" />
         </counts>
@@ -160,12 +148,21 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="48" column="22" selection-start-line="48" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -176,11 +173,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configs/env/dev.env">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configs/env/test.env">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -287,11 +279,6 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="helpers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -339,12 +326,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541160174131</updated>
       <workItem from="1541160176495" duration="18424000" />
-      <workItem from="1541385757647" duration="9041000" />
+      <workItem from="1541385757647" duration="9433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27465000" />
+    <option name="totallyTimeSpent" value="27857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -474,13 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="22" selection-start-line="48" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docker/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -600,20 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configs/mongoConn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/messages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -635,11 +601,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/configs/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/mongoConn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="48" column="22" selection-start-line="48" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
