@@ -63,7 +63,7 @@
           <entry key="gitignore" value="10" />
           <entry key="js" value="905" />
           <entry key="json" value="70" />
-          <entry key="md" value="615" />
+          <entry key="md" value="732" />
           <entry key="pug" value="376" />
           <entry key="www" value="16" />
           <entry key="yml" value="72" />
@@ -75,7 +75,7 @@
           <entry key="JSON" value="70" />
           <entry key="Jade" value="376" />
           <entry key="JavaScript" value="921" />
-          <entry key="Markdown" value="615" />
+          <entry key="Markdown" value="732" />
           <entry key="PLAIN_TEXT" value="111" />
           <entry key="YAML" value="72" />
         </counts>
@@ -161,8 +161,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -326,18 +326,18 @@
       <option name="presentableId" value="Default" />
       <updated>1541160174131</updated>
       <workItem from="1541160176495" duration="18424000" />
-      <workItem from="1541385757647" duration="9433000" />
+      <workItem from="1541385757647" duration="9605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27857000" />
+    <option name="totallyTimeSpent" value="28029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24543288" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24543288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -351,7 +351,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49960285" visible="true" weight="0.42054793" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49960285" visible="true" weight="0.42054793" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -625,8 +625,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
