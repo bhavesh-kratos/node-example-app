@@ -5,8 +5,8 @@ const crypto 			= require('crypto'),
 class Crypt {
 
     constructor() {
-        this.key  = 'ZENATIX';
-        this.algo = 'sha256' ;
+        this.key  = process.env.ENCRYPT_KEY || 'ZENATIX';
+        this.algo = process.env.ENCRYPT_ALGO || 'sha256' ;
     }
 
 

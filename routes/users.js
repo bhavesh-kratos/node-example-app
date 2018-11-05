@@ -22,9 +22,10 @@ router.post('/register', function(req,res, next){
             let resObj = {};
             let Common = new common.common();
             if (err) {
-                let message = err.code == '11000' ? `${req.body.email} ${helperLib.messages.alreadyTaken}` : 'Registration failed';
+                let message = err.code == '11000' ? `${req.body.email} ${messages.alreadyTaken}` : 'Registration failed';
                 resObj = Common.generateResponses(400, 'failed', message, err.code == '11000'? null : err);
             } else {
+                let message = messages.accoundCreated;
                 let result = {
                     email: saved.email,
                     created_at: saved.created_at
