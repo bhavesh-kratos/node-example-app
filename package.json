@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www",
+    "dev": "nodemon ./bin/www && opn http://localhost:3000/",
 
     "start:docker": "docker-compose -f docker-compose.yml up",
     "poststart:docker": "opn http://localhost:3000/",

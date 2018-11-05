@@ -1,3 +1,5 @@
+# Node Example App
+
 ### INFO: ###
 
 - Setup
@@ -16,6 +18,6 @@
  ```
  Please note that docker is not working properly right now. Working on its config right now.
 ### Live demo: ###
-
+After setup go to these links to check out the working demo.
 - Users list at: http://localhost:3000/users
 - Regiter user at: http://localhost:3000/users/register
